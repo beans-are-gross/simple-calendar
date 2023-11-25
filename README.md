@@ -1,4 +1,4 @@
-# Static calendar
+# Simple calendar
 
 A simple calendar with a clock.
 
