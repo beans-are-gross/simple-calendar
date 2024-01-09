@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-body{
-  font-family: 'Open Sans', sans-serif;
-}
-
 #cal-container{
   display: flex;
   justify-content: center;
 
   border-radius: 10px;
+
+  font-family: 'Open Sans', sans-serif;
 }
 
 #cal{
@@ -16,10 +14,12 @@ body{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
   border-radius: inherit;
+
+  margin: 25px;
 }
 
 #cal-clock-container{
-  background-size: fill;
+  background-size: cover;
   
   height: max-content;
 
